@@ -1,2 +1,2 @@
 # DataStruct-Algo
-2017_DataStruct + 2018_Algo + Personal work
+2017_DataStructure + 2018_Algorithm + Personal work
